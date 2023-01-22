@@ -3,9 +3,7 @@
 Je suis également typographe et diététicienne. 
 N'hésitez pas à me contacter :
 
-ceciliadev@outlook.com
-
-https://www.linkedin.com/in/cecilia-caillaud/
+✉ ceciliadev@outlook.com - Ⓛ https://www.linkedin.com/in/cecilia-caillaud/
 
 ---
 #### Hello. 
@@ -13,9 +11,7 @@ https://www.linkedin.com/in/cecilia-caillaud/
 I am also a typographer and dietitian.
 Do not hesitate to contact me :
 
-ceciliadev@outlook.com
-
-https://www.linkedin.com/in/cecilia-caillaud/
+✉ ceciliadev@outlook.com - Ⓛ https://www.linkedin.com/in/cecilia-caillaud/
 
 <!--
 **CCeciliaDev/CCeciliaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
