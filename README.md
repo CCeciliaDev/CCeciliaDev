@@ -4,7 +4,7 @@ Je suis également typographe et diététicienne.
 N'hésitez pas à me contacter :
 
 ✉ ceciliadev@outlook.com - Ⓛ https://www.linkedin.com/in/cecilia-caillaud/
-> 🌿Déterminée et réservée. 💡Curieuse et créative. 📚Motivée et empathique. 💻Bienveillante et bosseuse !
+> 📚 Déterminée et réservée. Curieuse et créative. Motivée et empathique. Bienveillante et bosseuse !
 
 ---
 #### Hello. 
@@ -13,8 +13,9 @@ I am also a typographer and dietitian.
 Do not hesitate to contact me :
 
 ✉ ceciliadev@outlook.com - Ⓛ https://www.linkedin.com/in/cecilia-caillaud/
-> ##### 🌿 Determined and reserved. 💡 Curious and creative. 📚 Motivated and empathetic. 💻 Caring and hardworking !
->
+> 📚 Determined and reserved. Curious and creative. Motivated and empathetic. Caring and hardworking !
+
+
 <!--
 **CCeciliaDev/CCeciliaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
