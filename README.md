@@ -4,7 +4,7 @@ Je suis également typographe et diététicienne.
 N'hésitez pas à me contacter :
 
 ✉ ceciliadev@outlook.com - Ⓛ https://www.linkedin.com/in/cecilia-caillaud/
-> ##### 🌿Déterminée et réservée. 💡Curieuse et créative. 📚Motivée et empathique. 💻Bienveillante et bosseuse !
+> 🌿Déterminée et réservée. 💡Curieuse et créative. 📚Motivée et empathique. 💻Bienveillante et bosseuse !
 
 ---
 #### Hello. 
