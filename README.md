@@ -16,9 +16,6 @@ N'hésitez pas à me contacter :
 ✉ ceciliadev@outlook.com - Ⓛ https://www.linkedin.com/in/cecilia-caillaud/
 
 
-
-![Cécilia's GitHub stats](https://github-readme-stats.vercel.app/api?username=CCeciliaDev)
-
 <!--
 **CCeciliaDev/CCeciliaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
