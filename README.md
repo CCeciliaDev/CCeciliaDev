@@ -7,14 +7,17 @@ Languages : <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/
             <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
             <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /> 
             <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-> Qui suis-je en quelques mots ? 📚 Déterminée et réservée. Curieuse et créative. Motivée et empathique. Bienveillante et bosseuse !      
+> Qui suis-je en quelques mots ? 📚 Déterminée et réservée. Curieuse et créative. Motivée et empathique. Bienveillante et bosseuse !     
+ 
+> Je suis également typographe et diététicienne. 
 
 N'hésitez pas à me contacter :
 
 ✉ ceciliadev@outlook.com - Ⓛ https://www.linkedin.com/in/cecilia-caillaud/
 
-> Je suis également typographe et diététicienne. 
 
+
+![Cécilia's GitHub stats](https://github-readme-stats.vercel.app/api?username=CCeciliaDev)
 
 <!--
 **CCeciliaDev/CCeciliaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
