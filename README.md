@@ -9,7 +9,7 @@ Languages : <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/
             <img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 > Qui suis-je en quelques mots ? 📚 Déterminée et réservée. Curieuse et créative. Motivée et empathique. Bienveillante et bosseuse !     
  
-> Je suis également typographe et diététicienne. 
+> NB : Je suis également typographe et diététicienne. 
 
 N'hésitez pas à me contacter :
 
